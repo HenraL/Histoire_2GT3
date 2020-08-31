@@ -1,0 +1,22 @@
+ _     _   _______        ________    _______    _______   ____    ______
+| |   | | |__   __|      |___  ___|  /  ___  \  |__   __| | __ \  |  ____|
+| |___| |    | |     ____    | |    /  /   \  \    | |    ||__) | | |____
+|  ___  |    | |    /  __|   | |    | |     | |    | |    |    /  |  ____|
+| |   | |  __| |__  \__  \   | |    \  \___/  /  __| |__  | |\ \  | |_____
+|_|   |_| |_______| |____/   |_|     \_______/  |_______| |_| \_\ |_______|
+
+								/
+							       ____    ___
+  							/     |____   / _ \
+							| __  |____  | |_| |
+							\__/          \___/
+
+Internet:
+
+-Cite ex:du gouv, https,www.gouvernement.gouv.fr, dernière consultation le ex 23 novembre 2017
+
+Article:
+
+Nom Prénom, Italic{"titre:..."}, dans ref
+
+Auteur inconnu, "ex: Laïcité", dans Encyclopédie en ligne ex:Wikipédia, adresse..., dernière consultation ex:le 13 novembre

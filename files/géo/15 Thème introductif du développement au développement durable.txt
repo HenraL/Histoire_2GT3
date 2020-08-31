@@ -1,0 +1,104 @@
+<!DOCTYPE HTML>
+<html>
+
+<!--
+ _     _   _______        ________    _______    _______   ____    ______
+| |   | | |__   __|      |___  ___|  /  ___  \  |__   __| | __ \  |  ____|
+| |___| |    | |     ____    | |    /  /   \  \    | |    ||__) | | |____
+|  ___  |    | |    /  __|   | |    | |     | |    | |    |    /  |  ____|
+| |   | |  __| |__  \__  \   | |    \  \___/  /  __| |__  | |\ \  | |_____
+|_|   |_| |_______| |____/   |_|     \_______/  |_______| |_| \_\ |_______|
+
+								/
+							       ____    ___
+  							/     |____   / _ \
+							| __  |____  | |_| |
+							\__/          \___/-->
+
+<p>Thème introductif: Du développement au développement durable</p>
+<p>_________________ __________________________________________
+
+Pb: Ct se caractéris le (développement) dvpt des XXe et XXIe siècle?
+___
+
+Céance 1: un dvpt inégal et déséquilibré.
+________ ________________________________
+
+développement:
+______________
+Amélioration des conditions de vies d'une population servant de cadre a la production du bien-être. l'amélioration des conditions de vie.
+
+                      Développement (dimention(s))
+
+*éco://^PIB  croissance |                                        éco:
+             PIB/hab    |meilleure répartition                                                                                                 soc:
+*sociale: //^ des conditions de vies materielles                                                                                               pol:
+*politique: environement politique favorable au libertés ind et coll
+
+
+Séance 1: Des inégalités à l'échelle mondiale(petite échelle)
+________ ____________________________________________________
+               1
+1/25 000 = __________
+             25 000
+              1
+1/50 000 = ________
+            50 000
+
+doc1 p16
+
+typologie bonne ou mauvaise?
+
+la limite n'est pas tot a fais valable or si pays riche devrait avoir un revenu élever
+
+certains ont un PIB entre 1000 et 2000
+
+PIB moy pour certains pays du sud
+
+certains pays idh équivalents a celui de la russie
+
+Le chili est un exemple
+Australie au nord
+Grohenland IDH élevé car:
+1-pas beacoup d'habitant
+2-appartient officiellement au Dannemark.
+
+classer les pays entre dévellopper et non
+
+2fact PIB/hab et IDH
+
+Indice développement humain.
+
+PIB:
+_ - de 1000$:
+	-
+
+
+
+Séance 2: à l'échelle régionale
+_________ _____________________
+
+types de surfaces:
+
+De R.Brumet
+          _____
+surface: |_/_/_| ou rond
+
+linéaire: ____ _____|>
+                                                       __
+ponctuel: .(rond plein) /_\(triangle dans le bon sens) \/(triangle renversé)
+
+taille: ========|>
+        _____|>
+
+Couleur: intensité des couleurs ex jaune désert très faible pop
+
+violet: industrie
+
+montagne:maron
+
+plaines: vert
+
+"ciel: bleu"
+</p>
+</html>

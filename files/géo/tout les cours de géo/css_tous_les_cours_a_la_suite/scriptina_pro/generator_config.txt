@@ -1,0 +1,5 @@
+# Fontspring Font-face Generator Configuration File
+# Upload this file to the generator to recreate the settings
+# you used to create these fonts.
+
+{"mode":"expert","formats":["ttf","woff","woff2","svg"],"options_subset":"basic","subset_custom":"","subset_custom_range":"","tt_instructor":"ttfautohint","fix_gasp":"xy","fix_vertical_metrics":"Y","metrics_ascent":"","metrics_descent":"","metrics_linegap":"","add_spaces":"Y","add_hyphens":"Y","fallback":"none","fallback_custom":"100","subset_ot_features":"all","subset_ot_features_list":"","ot_features":["smcp","c2sc","onum","pnum","zero","salt","ss01","ss02","ss03","ss04","ss05","ss06","ss07","ss08","ss09","ss10","ss11","ss12","ss13","ss14","ss15","ss16","ss17","ss18","ss19","ss20"],"base64":"Y","css_stylesheet":"stylesheet.css","filename_suffix":"-webfont","emsquare":"2048","spacing_adjustment":"0","subset":{"cpf1027088":"macroman"}}
